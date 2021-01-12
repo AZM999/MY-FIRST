@@ -1,0 +1,8 @@
+
+
+hello 
+this is the index(list) of programs i wanna make or share
+
+1.armstrong number
+2.cube printing
+3.printing stars and shapes
